@@ -1,4 +1,6 @@
 
+xpathの話．
+
 //
 は
 descendant-or-self::node()/
