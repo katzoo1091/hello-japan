@@ -18,3 +18,4 @@ descendant-or-self::item[1]
 
 / は [] より弱い
 
+ここまで
