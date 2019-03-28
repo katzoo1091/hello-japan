@@ -1,0 +1,18 @@
+
+//
+は
+descendant-or-self::node()/
+のこと．
+
+//item[1]
+は↓の事．
+
+descendant-or-self::node()/child::item[1]
+自分または子孫の全てのノード  の 子供である item要素の1つめ．
+つまり、全てノードがカレントノードになり得る．
+
+descendant-or-self::item[1]
+自分または子孫の item 要素の1つめ
+
+/ は [] より弱い
+
